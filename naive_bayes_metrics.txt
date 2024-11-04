@@ -1,0 +1,5 @@
+Naive Bayes Metrics:
+Accuracy: 0.9625
+Precision: 0.9630
+Recall: 0.9286
+F1-Score: 0.9455

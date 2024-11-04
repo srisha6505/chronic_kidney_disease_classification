@@ -1,0 +1,6 @@
+Logistic Regression Metrics
+------------------------------
+Accuracy: 0.9875
+Precision: 0.9655
+Recall: 1.0000
+F1-Score: 0.9825
